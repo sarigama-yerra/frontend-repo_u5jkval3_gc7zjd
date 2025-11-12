@@ -8,14 +8,14 @@ function Contact() {
       <main className="pt-24 pb-16 max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-10">
         <div>
           <h1 className="text-4xl font-extrabold">Contact</h1>
-          <p className="mt-2 text-white/70">We’d love to host you. Get in touch for reservations, events, or questions.</p>
+          <p className="mt-2 text-white/70">We’d love to host you in Frisco. Reach out for reservations, catering, or events.</p>
 
           <div className="mt-8 space-y-4">
-            <p className="text-white/80"><span className="font-semibold">Phone:</span> (555) 123-4567</p>
-            <p className="text-white/80"><span className="font-semibold">Email:</span> hello@tileandflame.com</p>
-            <p className="text-white/80"><span className="font-semibold">Address:</span> 123 Ember Street, Red City</p>
+            <p className="text-white/80"><span className="font-semibold">Phone:</span> (469) 555-0145</p>
+            <p className="text-white/80"><span className="font-semibold">Email:</span> hello@kaverisouthkitchen.com</p>
+            <p className="text-white/80"><span className="font-semibold">Address:</span> 123 Legacy Dr, Frisco, TX 75034</p>
             <div className="aspect-video w-full rounded-2xl overflow-hidden ring-1 ring-white/10">
-              <img src="https://images.unsplash.com/photo-1523368749929-6b2bf370dbf8?ixid=M3w3OTkxMTl8MHwxfHNlYXJjaHwxfHxSZXN0YXVyYW50JTIwZXh0ZXJpb3J8ZW58MHwwfHx8MTc2MjkzNDIyMnww&ixlib=rb-4.1.0&w=1600&auto=format&fit=crop&q=80" alt="Restaurant exterior" className="h-full w-full object-cover" loading="lazy" />
+              <img src="https://images.unsplash.com/photo-1523368749929-6b2bf370dbf8?auto=format&fit=crop&q=80&w=1600" alt="Restaurant exterior" className="h-full w-full object-cover" loading="lazy" />
             </div>
           </div>
         </div>

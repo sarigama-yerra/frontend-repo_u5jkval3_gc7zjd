@@ -9,10 +9,10 @@ function Hero() {
       <div className="relative h-full flex items-center justify-center text-center">
         <div className="max-w-3xl mx-auto px-6">
           <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight text-white drop-shadow-lg">
-            Modern Dining, Fired by Flavor
+            Authentic South Indian Kitchen in Frisco
           </h1>
           <p className="mt-4 text-lg sm:text-xl text-white/80">
-            A contemporary restaurant experience with bold, fire-kissed dishes and an immersive ambiance.
+            Crispy dosas, aromatic biryanis, fluffy idlis, and filter coffee — crafted with tradition and a modern spark.
           </p>
           <div className="mt-8 flex items-center justify-center gap-3">
             <a href="#reserve" className="px-5 py-3 rounded-md bg-red-600 hover:bg-red-700 text-white font-semibold transition-colors">Reserve a Table</a>

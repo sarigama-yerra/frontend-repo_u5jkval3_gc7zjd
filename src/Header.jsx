@@ -16,7 +16,7 @@ function Header() {
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center gap-2">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-red-500 to-orange-500" />
-            <span className="text-white font-semibold tracking-wide">Tile & Flame</span>
+            <span className="text-white font-semibold tracking-wide">Kaveri South Kitchen</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-1">
